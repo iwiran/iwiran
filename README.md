@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on incubated projects such as health, IT, travel, pets and lifestyle.
 - 📫 How to reach me -> http://3.14159.icu/
 
-posts_regex = /### Recent Blog Posts\n\n[\s\S]*?(?=<\/td>)/m
-
 <!---
 iwiran/iwiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
